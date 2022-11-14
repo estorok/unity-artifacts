@@ -4,8 +4,6 @@
 
 ![rt-3](rt-images/Z_CornellRayRefract.png "cornell ray scene with refraction")
 
-https://user-images.githubusercontent.com/117557584/201595490-70cef2ff-a736-4a00-9429-5f0495ae1692.mp4
-
 I implemented a software ray tracer that renders a scene 
 by calculating the color and intensity for each pixel. 
 A ray is cast from the viewer, through the location of the pixel 
@@ -24,6 +22,8 @@ total internal reflection).
 Relevant code snippets for calculating shadow attenuation, 
 specular and diffuse reflection, and reflection/refraction directions 
 are included in the `code-snippets/` directory.
+
+https://user-images.githubusercontent.com/117557584/201595490-70cef2ff-a736-4a00-9429-5f0495ae1692.mp4
 
 Videos of the ray tracer in operation are played back at 5-10x actual rendering speed.
 
